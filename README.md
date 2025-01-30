@@ -6,6 +6,7 @@ Around 7+ years of Java full stack development experience in all phases of Softw
 Cycle (SDLC) which includes Analysis, Design, Development, Deploying, testing, debugging, Project
 management Implementation and Maintenance of Web based, Enterprise business applications using the
 JAVA/J2EE and Client Server technologies.
+
 Experience in client Server environments including Java Platform, Enterprise Edition (J2EE), Servlets
 and JDBC technologies.
 Expertise in UI Design and Development using HTML5, CSS3, Bootstrap, JavaScript, JSP, XML, JSON,
@@ -14,28 +15,36 @@ Designed and coded customized Angular 5 services to interact with the backend AP
 components.
 Worked with various frameworks in Spring such as Spring IOC, AOP, Spring transaction Management,
 Spring Data, Spring JDBC, and Spring Security (Spring security, Site Minder).
+
 Had knowledge on JAVA 8 features like Stream API, Time API, Functional Interfaces Multithreading,
 Lambda expressions, Transaction Management, Exception Handling, Collection API.
+
 Better understanding of using Spring Cloud–Netflix OSS stack for Microservices deployment and auto
 configurations like Ribbon (client-side Load Balancer), Hystrix (latency and fault tolerance library), Zuul
 (gate way for routing, monitoring, security) with Eureka service registry and log management with ELK.
+
 Experience in working with messaging systems like Kafka, Kafka event Sourcing.
 Design, implement and maintain integration systems infrastructure including fault tolerance and high
 availability solutions. Design and develop Integration solutions based on IBM MQ and Message Broker
 technologies
+
 Experience in handling messaging services using Apache Kafka
 Have good knowledge on different databases like, MySQL, DB2, Microsoft SQL Server, NoSQL DB (
 Mongo DB, Redis) and good experience in writing stored procedures, functions and triggers using
 PL/SQL in JDBC, ODBC and in WebLogic server.
+
  Great experience of working with authorization and authentication of web services using OIDC (Open
 ID Connect) on top of OAuth 2.0, site minder (for pool-based authentication and single-sign on), JWT
 (JSON web tokens to securely transmit information between parties as a JSON object)
+
  Well experienced in using various AWS (Amazon Web Services) Components like EC2, S3, SNS, SQS,
 EBS, IAM, Cloud Watch, RDS and Lambda for server less program functions. Experience in Integration
 of Amazon Web Services with other applications infrastructure.
+
  Implemented Docker container service, build pipeline Jenkins, for Continuous Integration and
 Continuous Deployment (CI/CD) that can run on the cloud or on-premises
  Used Kubernetes Linux container for deploying and scaling containerized applications.
+
  Experience in deploying and configuring applications onto application servers like Web Sphere, Web
 logic, JBOSS and Web server Apache Tomcat.
 
@@ -218,6 +227,7 @@ Gained experience with database migration to Amazon RDS and configuring auto-sca
 Supported build automation using Maven and Jenkins for Continuous Integration.
 Managed images and data storage using Amazon S3 and maintained EC2 instances.
 Learned and used tools like Log4J for debugging and Git for version control.
+
 Educational Summary:
 Masters in Computer Science- Sacred Heart University
 Bachelors in Computer Science – GITAM University
