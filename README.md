@@ -1,29 +1,29 @@
-Java Full Stack Developer
-
-PROFESSIONAL SUMMARY:
+**Java Full Stack Developer
+**
+**PROFESSIONAL SUMMARY:**
 Around 7+ years of Java full stack development experience in all phases of Software Development Life
 Cycle (SDLC) which includes Analysis, Design, Development, Deploying, testing, debugging, Project
 management Implementation and Maintenance of Web based, Enterprise business applications using the
 JAVA/J2EE and Client Server technologies.
- Experience in client Server environments including Java Platform, Enterprise Edition (J2EE), Servlets
+Experience in client Server environments including Java Platform, Enterprise Edition (J2EE), Servlets
 and JDBC technologies.
- Expertise in UI Design and Development using HTML5, CSS3, Bootstrap, JavaScript, JSP, XML, JSON,
+Expertise in UI Design and Development using HTML5, CSS3, Bootstrap, JavaScript, JSP, XML, JSON,
 jQuery.
- Designed and coded customized Angular 5 services to interact with the backend API and serve
+Designed and coded customized Angular 5 services to interact with the backend API and serve
 components.
- Worked with various frameworks in Spring such as Spring IOC, AOP, Spring transaction Management,
+Worked with various frameworks in Spring such as Spring IOC, AOP, Spring transaction Management,
 Spring Data, Spring JDBC, and Spring Security (Spring security, Site Minder).
- Had knowledge on JAVA 8 features like Stream API, Time API, Functional Interfaces Multithreading,
+Had knowledge on JAVA 8 features like Stream API, Time API, Functional Interfaces Multithreading,
 Lambda expressions, Transaction Management, Exception Handling, Collection API.
- Better understanding of using Spring Cloud–Netflix OSS stack for Microservices deployment and auto
+Better understanding of using Spring Cloud–Netflix OSS stack for Microservices deployment and auto
 configurations like Ribbon (client-side Load Balancer), Hystrix (latency and fault tolerance library), Zuul
 (gate way for routing, monitoring, security) with Eureka service registry and log management with ELK.
- Experience in working with messaging systems like Kafka, Kafka event Sourcing.
- Design, implement and maintain integration systems infrastructure including fault tolerance and high
+Experience in working with messaging systems like Kafka, Kafka event Sourcing.
+Design, implement and maintain integration systems infrastructure including fault tolerance and high
 availability solutions. Design and develop Integration solutions based on IBM MQ and Message Broker
 technologies
- Experience in handling messaging services using Apache Kafka
- Have good knowledge on different databases like, MySQL, DB2, Microsoft SQL Server, NoSQL DB (
+Experience in handling messaging services using Apache Kafka
+Have good knowledge on different databases like, MySQL, DB2, Microsoft SQL Server, NoSQL DB (
 Mongo DB, Redis) and good experience in writing stored procedures, functions and triggers using
 PL/SQL in JDBC, ODBC and in WebLogic server.
  Great experience of working with authorization and authentication of web services using OIDC (Open
@@ -38,12 +38,14 @@ Continuous Deployment (CI/CD) that can run on the cloud or on-premises
  Experience in deploying and configuring applications onto application servers like Web Sphere, Web
 logic, JBOSS and Web server Apache Tomcat.
 
-Technical Skills
+**Technical Skills:**
+
 Programming Languages Java, C, PL/SQL
 Web Technologies HTML5, CSS3, JavaScript, JSON, Bootstrap, jQuery, React JS. Angular
 J2EE Technologies &amp;
-frameworks
 
+**frameworks:
+**
 Servlets, EJB, JSP, JSF, JDBC, SOAP, WSDL, REST, XML, JAXP, JAXB, JPA, JMS,
 Spring3.x/4.x/5.x, Hibernate, Struts, Spring MVC, Spring Boot, Spring Data,
 Spring AOP, Spring Web Flow, Log 4J.
@@ -69,9 +71,8 @@ Operating System Windows, Linux, Unix, MAC, MS-DOS
 IDE’s Eclipse, Visual Studio, IntelliJ, Spring Tool Suite, Sublime Text
 
 Professional Experience:
-Client: United Health Group. Aug 2023 -Present
+**Client: United Health Group. Aug 2023 -Present**
 Role: Java Full Stack Developer
-
 Description: &quot;Health Care Group focuses on providing comprehensive healthcare services through managed
 care programs. These services include Medicaid, Medicare Advantage, and Medicare Prescription Drug plans,
 ensuring quality healthcare access for members across the United States.&quot;
@@ -93,38 +94,37 @@ Responsibilities:
  Used MAVEN to automate the build process. Configured and automated the Jenkins Build
  jobs for Continuous Integration. Troubleshoot the build issue during the Jenkins build process.
  Stored the images of the auto accidents and resolved claims data in S3 buckets and managed the EC2
- instances.
- Used Log4J for logging and debugging, used Maven as a build tool and GIT as a version control tool.
-
- Environment Java 1.6, Spring 3.5, Hibernate 3.0, REST and HTML5, CSS3, JavaScript, Bootstrap4, jQuery,
- Typescript, JavaScript, Dojo, Log4J, JUnit, MySQL 5, JBoss 6.0, MAVEN, Mockito 2.0, Jenkins, Test Driven
- Development.
+instances.
+Used Log4J for logging and debugging, used Maven as a build tool and GIT as a version control tool.
+Environment Java 1.6, Spring 3.5, Hibernate 3.0, REST and HTML5, CSS3, JavaScript, Bootstrap4, jQuery,
+Typescript, JavaScript, Dojo, Log4J, JUnit, MySQL 5, JBoss 6.0, MAVEN, Mockito 2.0, Jenkins, Test Driven
+Development.
 
-Client: Torry Harris Business Solution August 2022 – July 2023
+**Client: Torry Harris Business Solution August 2022 – July 2023**
+
 Role: Java Full Stack Developer
 Description: Our project involves developing a payroll generator website using front-end and back-end Java
 technologies. The application is designed to provide small and medium-sized businesses with full-service HR
 solutions tailored to their industry, with a primary focus on efficient payroll management.&quot;.
 Responsibilities:
- Developed a Micro Service Oriented application and implemented Spring Boot to create a CRUD
+Developed a Micro Service Oriented application and implemented Spring Boot to create a CRUD
 backend.
- Implemented Microservices architecture for the creation of the independent components utilizing
+Implemented Microservices architecture for the creation of the independent components utilizing
 Spring Boot 2.2 for accelerating the development process and provided security using Spring Security.
- Wrote Web Services using REST for sending and getting data from the external interface. Automation of
+Wrote Web Services using REST for sending and getting data from the external interface. Automation of
 Web Services testing.
- Implemented RESTful Web Services to retrieve data from client side using Microservices.
- Wrote unit test cases with Junit &amp; Mockito framework for testing applications and client-side logging
+Implemented RESTful Web Services to retrieve data from client side using Microservices.
+Wrote unit test cases with Junit &amp; Mockito framework for testing applications and client-side logging
 using Log4j within Test Driven Development.
- Worked with JAVA 8 features like Stream API, Time API, Functional Interfaces Multithreading,
+Worked with JAVA 8 features like Stream API, Time API, Functional Interfaces Multithreading,
 Transaction Management, Exception Handling, Collection API.
- Worked with Angular 4 forms, modules, DOM, events, expressions, controllers, filters and Hit Request.
- Used HTTP Request to read data from web servers and process JSON data to render in the Ul.
- Implemented the database connectivity using JDBC with Oracle 9i database as backend.
-
- Involved in analysis, design, and implementation and testing phases of Software Development Life
+Worked with Angular 4 forms, modules, DOM, events, expressions, controllers, filters and Hit Request.
+Used HTTP Request to read data from web servers and process JSON data to render in the Ul.
+Implemented the database connectivity using JDBC with Oracle 9i database as backend.
+Involved in analysis, design, and implementation and testing phases of Software Development Life
 Cycle (SDLC) and used agile methodology for developing application.
 
-Client: Capital One June 2021 – June 2022
+**Client: Capital One June 2021 – June 2022**
 Role: Java Developer
 Description: BCBS is in need of a senior java developer for their insurance Product, which allows Payers to see
 real-time access for patients insurance claims. The developer will focus on enhanced functionality and client
@@ -148,7 +148,7 @@ backend.
  Junit is implemented along with Mockito to perform unit testing on our RESTful web application.
  Involved in Scrum and Scaled Agile way of development
 
-Client: Linova Info Private Limited , IND Jan 2020 – Oct 2020
+**Client: Linova Info Private Limited , IND Jan 2020 – Oct 2020**
 Role: Java Full Stack Developer
 
 Responsibilities:
@@ -180,7 +180,7 @@ Web Services testing.
  Used Docker container for deploying the application to have fast access
  Used Maven to build the application and deploy on Tomcat Server 9.0
 
-Client: Antrix Technologies, IND July 2018 – December 2019
+**Client: Antrix Technologies, IND July 2018 – December 2019**
 Role: Java Full Stack Developer
 
 Responsibilities:
@@ -206,7 +206,7 @@ Gateway in the Spring Cloud and Netflix Eureka service to provide weighted load 
 several factors like traffic, resource usage and implemented security functionality OAuth 2.0, Spring
 security (User Access Management, JWT), SSL and Site Minder (SSO).
 
-Client: Antrix Technologies , IND December 2017 – June 2018
+**Client: Antrix Technologies , IND December 2017 – June 2018**
 Role: Software Developer (Intern)
 Responsibilities:
 Assisted in designing and developing application layers using Spring and Hibernate.
