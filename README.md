@@ -1,4 +1,5 @@
 Java Full Stack Developer
+
 PROFESSIONAL SUMMARY:
 Around 7+ years of Java full stack development experience in all phases of Software Development Life
 Cycle (SDLC) which includes Analysis, Design, Development, Deploying, testing, debugging, Project
