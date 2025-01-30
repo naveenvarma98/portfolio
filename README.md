@@ -80,7 +80,9 @@ AWS, EC2, EBS, S3, Docker, ECS, EBS, EKS, Lambda
 Operating System Windows, Linux, Unix, MAC, MS-DOS
 IDE’s Eclipse, Visual Studio, IntelliJ, Spring Tool Suite, Sublime Text
 
-Professional Experience:
+**Professional Experience:
+**
+
 **Client: United Health Group. Aug 2023 -Present**
 Role: Java Full Stack Developer
 Description: &quot;Health Care Group focuses on providing comprehensive healthcare services through managed
@@ -228,6 +230,8 @@ Supported build automation using Maven and Jenkins for Continuous Integration.
 Managed images and data storage using Amazon S3 and maintained EC2 instances.
 Learned and used tools like Log4J for debugging and Git for version control.
 
-Educational Summary:
+**
+Educational Summary:**
+
 Masters in Computer Science- Sacred Heart University
 Bachelors in Computer Science – GITAM University
